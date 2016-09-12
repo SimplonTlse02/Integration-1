@@ -1,0 +1,54 @@
+/* Header */
+.header {
+	width: 1000px;
+	height: 100px;
+	margin: 0 auto;
+}
+
+.header img {
+	height: 50px;
+	width: 150px;
+	float: left;
+	margin: 15px 50px;
+}
+
+.header li {
+	display: inline-block;
+	padding: 40px 20px;
+}
+
+/* Container */
+
+.container {
+	width: 600px;
+	margin : 0 auto;
+	text-align: center;
+}
+
+.container h1, .container h2 {
+	font-family: "Lora", Serif;
+}
+
+.container p {
+	font-size: 18px;
+	line-height: 1.4;
+	text-align: justify;
+}
+/* Footer */
+
+.footer {
+	width: 1000px;
+	margin: 60px auto;
+	text-align: center;
+	height: 100px;
+}
+
+.footer i {
+	height: 5px;
+	width: 5px;
+	margin: 0px 25px;
+}
+
+.footer div {
+	border: solid 2px red;
+}
